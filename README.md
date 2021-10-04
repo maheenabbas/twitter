@@ -22,3 +22,30 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 ![FINAL](https://user-images.githubusercontent.com/81388494/135383311-941c5a15-f0ec-4f4b-9a31-ac7d51260427.gif)
+
+
+___________________________________________________________________________________________________________________________________________________________________
+
+# Twitter - Part II
+
+This is a basic twitter app to view, compose, favorite, and retweet tweets.
+
+Time spent: **9** hours spent in total
+
+## User Stories
+
+The following **required** functionality is completed:
+
+- [X] User can compose a tweet. (4pts)
+- [X] User can favorite a tweet. (4pts)
+- [X] User can retweet a tweet. (2pts)
+
+The following **bonus** features are implemented:
+
+- [ ] When composing a tweet, user sees a countdown for the number of characters remaining for the tweet (out of 280) (2pts)
+- [ ] User can view their profile in a profile tab. (3pts)
+- [ ] User sees embedded images in tweet if available. (3pts)
+
+## Video Walkthrough
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/81388494/135909122-2717c7d0-3385-4b5f-b710-f4a9d8f63066.gif)
+
